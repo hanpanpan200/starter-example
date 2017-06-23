@@ -4,10 +4,10 @@ import {
 } from 'react-native'
 import App from './src/App'
 
-const ReactNativeStarter = () => (
+const StarterExample = () => (
   <App />
 )
 
-export default ReactNativeStarter
+export default StarterExample
 
-AppRegistry.registerComponent('ReactNativeStarter', () => ReactNativeStarter)
+AppRegistry.registerComponent('StarterExample', () => StarterExample)

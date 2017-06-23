@@ -1,4 +1,4 @@
-package com.reactnativestarter;
+package com.starterexample;
 
 import android.app.Application;
 
